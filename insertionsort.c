@@ -18,7 +18,6 @@ int main(){
     // insertion sort
     i = 1;
     while(i<n){
-        // printf("\nHello");
         j = i - 1;
         temp = arr[i];
 
