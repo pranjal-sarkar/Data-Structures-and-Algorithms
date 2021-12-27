@@ -16,7 +16,6 @@ void displayOperation();
 
 // global variables
 NODE *root = NULL;
-// NODE *temp;
 
 int main(){
     int choice;
