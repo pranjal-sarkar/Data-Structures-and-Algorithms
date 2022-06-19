@@ -8,7 +8,7 @@ int main(){
     int i, j;
     int temp;
 
-    printf("Enter elements of array: ");
+    printf("Enter array size: ");
     scanf("%d", &n);
 
     printf("Enter elements of array:\n");
